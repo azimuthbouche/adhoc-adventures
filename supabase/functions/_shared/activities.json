@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sound-map",
+    "title": "Draw a sound map",
+    "summary": "Listen from a comfortable spot and sketch the sounds around you.",
+    "steps": [
+      "Sit somewhere comfortable with paper and a pencil.",
+      "Listen quietly, then mark where each sound seems to come from.",
+      "Give each sound a shape and compare your map with what you can see."
+    ]
+  },
+  {
+    "id": "color-collection",
+    "title": "Find a color collection",
+    "summary": "Notice different shades of one color using objects already nearby.",
+    "steps": [
+      "Choose a color and look for it in your room.",
+      "Point out five examples without moving heavy or fragile objects.",
+      "Arrange the examples in your imagination from lightest to darkest."
+    ]
+  },
+  {
+    "id": "imaginary-postcard",
+    "title": "Make an imaginary postcard",
+    "summary": "Invent a place and send a short message from it on paper.",
+    "steps": [
+      "Sketch an imaginary place on a sheet of paper.",
+      "Name the place and add three details that make it unusual.",
+      "Write a short postcard describing something you noticed there."
+    ]
+  }
+]
