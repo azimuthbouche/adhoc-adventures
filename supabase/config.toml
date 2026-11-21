@@ -1,0 +1,5 @@
+project_id = "adhoc-adventures"
+
+# The walking skeleton exposes only a public, read-only sample catalog.
+[functions.pick-today]
+verify_jwt = false
